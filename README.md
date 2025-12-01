@@ -31,6 +31,7 @@
     <strong>Developer & AI/ML Enthusiast</strong> passionate about open-source contributions and building innovative tech solutions.
   </p>
 </section>
+
 <div style="text-align: center; margin: 30px 0;">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="80%" alt="Neon Line Divider"/>
 </div>
@@ -59,35 +60,18 @@
       <li>📜 <strong>Certifications & Skills:</strong> JavaScript, Next.js, Cisco, Python, System Design & Analysis.</li>
     </ul>
   </div>
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider Animation" />
 </section>
 
 <!-- Tech Stack -->
 <section style="background-color: #0f0f0f; border-radius: 10px; padding: 25px; margin-bottom: 40px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);">
   <h2 style="color: #00FFFF;">Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,renact,nodejs,express,mongodb,mysql,html,css,git,github,vscode,tailwind&perline=6" alt="Tech Stack Icons" />
+  <!-- corrected react icon key -->
+  <img src="https://skillicons.dev/icons?i=cpp,py,c,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,tailwind&perline=6" alt="Tech Stack Icons" />
 </section>
 
-<!-- GitHub Stats -->
-<section style="background-color: #0f0f0f; border-radius: 10px; padding: 25px; margin-bottom: 40px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);">
-  <h2 style="color: #00FFFF;">GitHub Stats</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ragibmondal&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=00FFFF&icon_color=00FFFF&text_color=A9A9A9&bg_color=0,000000,130F40" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ragibmondal&show_icons=true&locale=en&layout=compact&title_color=00FFFF&text_color=A9A9A9&bg_color=0,000000,130F40" width="350" />
-  </div>
-</section>
-
-<!-- Visitor Counter (NOW VISIBLE) -->
-<section style="text-align: center; padding: 25px; margin-bottom: 40px; background-color: #0f0f0f; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);">
-  <h3 style="color: #00FFFF;">Visitor Counter</h3>
-  <a href="https://github.com/ragibmondal">
-  <img src="https://komarev.com/ghpvc/?username=ragibmondal&label=Visitors&color=36BCF7&style=flat" alt="ragibmondal" width="150" height="30"/>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </a> <div>
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider Animation" /> </div>
-</section>
-
-<!-- Footer -->
-<footer style="background-color: #0f0f0f; border-radius: 10px; padding: 15px; text-align: center; color: #CCCCCC; box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);">
-  <p>Thanks for visiting! Let’s connect and collaborate. I'm open to exciting opportunities and learning together!</p>
-</footer>
+<!-- 🔥 NEW: Flex & Bison / Compiler Design Playground -->
+<section style="background: radial-gradient(circle at top, #011627 0, #020B17 35%, #000000 100%); border-radius: 14px; padding: 30px; margin-bottom: 40px; text-align: center; box-shadow: 0 0 30px rgba(0, 255, 255, 0.35); position: relative; overflow: hidden;">
+  
+  <!-- Glowing background accents -->
+  <div style="position: absolute; top: -8
